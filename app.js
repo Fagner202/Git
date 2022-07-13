@@ -1,0 +1,1 @@
+var texto = 'Como podemos trabalhar com o github';
